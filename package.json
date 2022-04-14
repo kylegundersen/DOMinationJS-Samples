@@ -1,0 +1,15 @@
+{
+  "name": "domination-js-samples",
+  "version": "1.0.0",
+  "author": "kylegundersen",
+  "scripts": {
+    "init": "npm install",
+    "start": "node server"
+  },
+  "devDependencies": {
+    "express": "^4.17.2",
+    "opener": "^1.5.2",
+    "domination-js": "1.3.0"
+  },
+  "license": "MIT"
+}
