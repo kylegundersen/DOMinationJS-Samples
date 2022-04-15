@@ -9,6 +9,7 @@ const path = require('path')
 app.use('/', express.static(path.join(__dirname, '/')))
 app.use('/inline-js', express.static(path.join(__dirname, './inline-js')))
 app.use('/typescript', express.static(path.join(__dirname, './typescript')))
+app.use('/some/path', express.static(path.join(__dirname, './typescript')))
 app.use('/vanilla-js', express.static(path.join(__dirname, './vanilla-js')))
 app.use('/node_modules', express.static(path.join(__dirname, './node_modules')))
 

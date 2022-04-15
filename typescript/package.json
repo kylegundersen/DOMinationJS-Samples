@@ -7,7 +7,7 @@
   "scripts": {
     "init": "npm install",
     "build": "webpack",
-    "watch": "npx webpack - w"
+    "watch": "npx webpack -w"
   },
   "devDependencies": {
     "expose-loader": "^3.1.0",
