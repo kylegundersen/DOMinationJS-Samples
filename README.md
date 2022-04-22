@@ -2,9 +2,9 @@
 These are common implementation examples provided to help people use this awesome minimalistic library.
 
 ## Included are three implementation:
-**Inline JS** - Single HTML page with an inline script tag.
-**TypeScript** - A TypeScript project with UMD webpack build process. (The only one with route example for now)
-**Vanilla JS** - An external JavaScipt file being referenced by a script tag.
+- **Inline JS** - Single HTML page with an inline script tag.
+- **TypeScript** - A TypeScript project with UMD webpack build process. (The only one with route example for now)
+- **Vanilla JS** - An external JavaScipt file being referenced by a script tag.
 
 ## Getting Started
 1. ```npm run init``` in package.json
